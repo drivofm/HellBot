@@ -13,19 +13,19 @@
     "env": {
         "API_HASH": {
             "description": "Get this value from my.telegram.org",
-            "value": ""
+            "value": "9757161d287a86db93265365215a256a"
         },
         "API_ID": {
             "description": "Get this value from my.telegram.org",
-            "value": ""
+            "value": "28509386"
         },
         "BOT_TOKEN": {
             "description": "Make a bot from @BotFather and paste the bot token here.",
-            "value": ""
+            "value": "6881065258:AAHntDvnHUDQ8uRir5AFSbMdGSMtD8F8jBI"
         },
         "DATABASE_URL": {
             "description": "Only use mongodb url here. Get it from https://mongodb.com/",
-            "value": ""
+            "value": "mongodb+srv://GpnYtBot:GpnYtBot@gpnyt.ilnghwh.mongodb.net/?retryWrites=true&w=majority"
         },
         "HANDLERS": {
             "description": "Lis of handlers seperated with a space to use for userbot command trigger.",
@@ -34,11 +34,11 @@
         },
         "LOGGER_ID": {
             "description": "The chat id of your logging channel/group.",
-            "value": ""
+            "value": "-1002050937820"
         },
         "OWNER_ID": {
             "description": "Your user id.",
-            "value": ""
+            "value": "6507493905"
         },
         "HEROKU_APPNAME": {
             "description": "Your heroku app name. Get it from the top of this page.",
@@ -50,7 +50,7 @@
         },
         "PLUGINS_REPO": {
             "description": "Fillup the username/reponame of the plugins repo.",
-            "value": "The-HellBot/Plugins",
+            "value": "Chowdhury-Siam/RinBot-Plugins",
             "required": false
         },
         "DEPLOY_REPO": {
